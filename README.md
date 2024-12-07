@@ -59,7 +59,7 @@ Haidar can clone the repository to get access to the model file:
 
 #### **Cloning the Repository**:
 ```python
-!git clone https://github.com/your-username/your-repo.git
+!git clone https://github.com/MohammadMahdi1128/Machine_learning.git
 %cd your-repo
 ```
 
@@ -75,8 +75,8 @@ Once the model file is pushed to GitHub, both you and Haidar can load the model 
 
 1. **Clone the Repository** (if you haven't already):
    ```python
-   !git clone https://github.com/your-username/your-repo.git
-   %cd your-repo
+   !git clone https://github.com/MohammadMahdi1128/Machine_learning.git
+   %cd /content/Machine_learning
    ```
 
 2. **Load the Model**:
